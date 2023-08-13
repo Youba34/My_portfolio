@@ -10,7 +10,7 @@
                     grids. This fusion of disciplines embodies my commitment to advancing sustainable practices through
                     informed decision-making. If you seek a dedicated professional to augment your data-driven and
                     sustainable initiatives, </p>
-                <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6"></span>
+                <span class="inline-block h-1 w-10 rounded bg-myBlue mt-8 mb-6"></span>
             </div>
         </div>
     </section>

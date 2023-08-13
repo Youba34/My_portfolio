@@ -9,15 +9,17 @@
                 <p class="mb-8 leading-relaxed">I'm a diligent Data Science student and accomplished Renewable Energy
                     Engineer with a disciplined approach and an earnest passion, I am resolutely dedicated to contributing
                     to a more sustainable future.</p>
-                <div class="grid grid-cols-2 w-full gap-x-4">
+                <div>
                     <button
-                        class="inline-flex justify-center text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Contact Me</button>
+                        class="inline-flex justify-center text-white bg-myBlue border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Contact
+                        Me</button>
                     <button
-                        class="inline-flex justify-center text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg ">Learn More</button>
+                        class="inline-flex justify-center text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg ml-4">Learn
+                        More</button>
                 </div>
             </div>
-            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-                <img class="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600">
+            <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 rounded-md overflow-hidden">
+                <img src="@/assets/images/hero-image.jpg" alt="hero image" class="">
             </div>
         </div>
     </section>
