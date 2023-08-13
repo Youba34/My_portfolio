@@ -12,7 +12,7 @@
             <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
                 <RouterLink class="mr-5 hover:text-gray-900" to="/">Home</RouterLink>
                 <RouterLink class="mr-5 hover:text-gray-900" to="/portfolio">Portfolio</RouterLink>
-                <RouterLink class="mr-5 hover:text-gray-900" to="/about">About</RouterLink>
+                <a class="mr-5 hover:text-gray-900">About</a>
             </nav>
             <button
                 class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">Contact

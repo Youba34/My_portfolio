@@ -11,11 +11,11 @@
             </a>
             <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2023
                 Firaouni —
-                <a href="https://twitter.com/knyttneve" class="text-gray-600 ml-1" rel="noopener noreferrer"
-                    target="_blank">@knyttneve</a>
+                <a href="https://www.linkedin.com/in/firaouni-ayoub/" class="text-gray-600 ml-1" rel="noopener noreferrer"
+                    target="_blank">@FiraouniAyoub</a>
             </p>
             <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-                <a class="ml-3 text-gray-500" href="https://twitter.com/knyttneve" target="_blank">
+                <a class="ml-3 text-gray-500" href="#" target="_blank">
                     <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5"
                         viewBox="0 0 24 24">
                         <path
